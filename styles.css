@@ -67,16 +67,6 @@ footer {
 }
 
 /**/
-
-/*footer {
-    background-color: #333;
-    color: white;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-}*/
 #servicos{
     text-align: center;
 }
@@ -104,24 +94,7 @@ section h2, p, h3{
     margin-top: 0;
     vertical-align: top;
 }
-/*section .contato {
-    width: 33%; 
-    display: inline-block; 
-    box-sizing: border-box;     
-    padding: 10px;
-}
-section .info-contato {  
-    width: 33%; 
-    display: inline-block; 
-    box-sizing: border-box;  
-    padding: 10px;
-}
-section .redes-sociais {
-    width: 33%; /
-    display: inline-block; 
-    box-sizing: border-box; 
-    padding: 10px;
-}*/
+
 section h3 {
     font-size: 1.5rem;
     margin-bottom: 10px;
